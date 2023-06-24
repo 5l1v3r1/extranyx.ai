@@ -17,5 +17,3 @@ def init_db():
     print('attempting to create tables...')
     db_interface.create_tables()
     print("finished")
-
-
